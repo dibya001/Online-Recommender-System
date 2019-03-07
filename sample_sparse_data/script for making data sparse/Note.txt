@@ -1,0 +1,2 @@
+This is a sample ipython notebook for creating sparse training and test data using movielens.
+The script can be modified with for other datasets. And degree of sparsity also can be changed.
